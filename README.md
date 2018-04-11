@@ -9,7 +9,8 @@ Resources needed:
 
 - Download data from kaggle competition page [here](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data)
 - Download GLove Word Vectors [here](https://nlp.stanford.edu/projects/glove/), choose the 300d.480B model
-- Download GoogleNews Word Vectors [here](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit)
+- Download GoogleNews Word Vectors [here](https://drive.google.com/uc?id=0B7XkCwpI5KDYNlNUTTlSS21pQmM&export=download)
+- To use the Keras model built in the file ```example_to_clarify.py```, you need to download the [20 Newsgroup dataset](http://qwone.com/~jason/20Newsgroups/20news-19997.tar.gz)
 
 Note:
 ```python
